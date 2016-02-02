@@ -39,7 +39,7 @@
      <item name="russian">Русский</item>
      <item name="german">Deutsch</item>
      <item name="bulgarian">Български</item>
-     <item name="chinese">中文</item>
+     <item name="chinese">chinese</item>
   </string-array>
 
   <string-array name="localeValue">
